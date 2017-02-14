@@ -8,6 +8,7 @@ Thanks to totolencule for giving me the idea.
 Programming language used: C# (Visual Basic 2015)
 
 Instructions:
+
 1. Execute itemdisplayinfo.sql into your database
 
 2. Download and extract Wotlk-Interface-(6304)ICONS.rar
