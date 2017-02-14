@@ -14,6 +14,7 @@ Instructions:
 2. Download and extract Wotlk-Interface-(6304)ICONS.rar
     All icons that I could find in wotlk data folder.
     Converted into .png
+    
     http://www.mediafire.com/file/g477c08546j5205/Wotlk-Interface-%286304%29ICONS.rar
 
 3. Start the app.
