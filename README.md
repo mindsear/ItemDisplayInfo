@@ -21,4 +21,4 @@ Instructions:
 4. Have fun!
 
 Known bugs:
-'Search by Name' doesn't change icons.
+'Search by Name' doesn't change icons. 
