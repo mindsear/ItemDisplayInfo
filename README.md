@@ -5,7 +5,7 @@ I made this application to ease the search of item displayid and icon name
 by combining the two tables into a single app + some minor features.
 Thanks to totolencule for giving me the idea.
 
-Programming language used: C# (Visual Basic 2015)
+Programming language used: C# (Visual Studio 2015)
 
 Instructions:
 
