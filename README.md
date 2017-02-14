@@ -24,3 +24,9 @@ Instructions:
 Known bugs:
 
 'Search by Name' doesn't change icons. 
+
+Screenshots
+
+![alt tag](https://s16.postimg.org/mzc51zgf9/image.png)
+
+![alt tag](https://s32.postimg.org/pms6zibk5/image.png)
