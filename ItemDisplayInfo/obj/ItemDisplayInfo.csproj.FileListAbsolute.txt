@@ -1,0 +1,10 @@
+C:\Users\Sorin\Documents\Visual Studio 2015\Projects\ItemDisplayInfo\ItemDisplayInfo\bin\Release\ItemDisplayInfo.exe.config
+C:\Users\Sorin\Documents\Visual Studio 2015\Projects\ItemDisplayInfo\ItemDisplayInfo\bin\Release\ItemDisplayInfo.exe
+C:\Users\Sorin\Documents\Visual Studio 2015\Projects\ItemDisplayInfo\ItemDisplayInfo\bin\Release\ItemDisplayInfo.pdb
+C:\Users\Sorin\Documents\Visual Studio 2015\Projects\ItemDisplayInfo\ItemDisplayInfo\bin\Release\MySql.Data.dll
+C:\Users\Sorin\Documents\Visual Studio 2015\Projects\ItemDisplayInfo\ItemDisplayInfo\obj\Release\ItemDisplayInfo.csprojResolveAssemblyReference.cache
+C:\Users\Sorin\Documents\Visual Studio 2015\Projects\ItemDisplayInfo\ItemDisplayInfo\obj\Release\ItemDisplayInfo.Form1.resources
+C:\Users\Sorin\Documents\Visual Studio 2015\Projects\ItemDisplayInfo\ItemDisplayInfo\obj\Release\ItemDisplayInfo.Properties.Resources.resources
+C:\Users\Sorin\Documents\Visual Studio 2015\Projects\ItemDisplayInfo\ItemDisplayInfo\obj\Release\ItemDisplayInfo.csproj.GenerateResource.Cache
+C:\Users\Sorin\Documents\Visual Studio 2015\Projects\ItemDisplayInfo\ItemDisplayInfo\obj\Release\ItemDisplayInfo.exe
+C:\Users\Sorin\Documents\Visual Studio 2015\Projects\ItemDisplayInfo\ItemDisplayInfo\obj\Release\ItemDisplayInfo.pdb
