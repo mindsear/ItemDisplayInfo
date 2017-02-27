@@ -33,7 +33,7 @@ Known bugs:
 
 ________________________________________________________________________________
 
-Screenshots
+## Screenshots
 
 ![alt tag](https://s16.postimg.org/mzc51zgf9/image.png)
 
