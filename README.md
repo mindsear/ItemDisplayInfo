@@ -11,7 +11,7 @@ ________________________________________________________________________________
 
 ## Instructions:  
 
-Before starting up you must have XAMPP (MariaDB 10) installed in order to get this application working.  
+You can use XAMPP (MariaDB 10) or MySQL Server (Portable) >= 5.5.  
 Download XAMPP: https://www.apachefriends.org/index.html  
 
 If you're using MySQL Portable 5.5 or 5.6 execute the following query:  
