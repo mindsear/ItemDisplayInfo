@@ -9,6 +9,10 @@ Programming language used: C# (Visual Studio 2015)
 
 Instructions:
 
+Before starting up you must have XAMPP (MariaDB 10) installed in order to get this application working.
+
+Download XAMPP: https://www.apachefriends.org/index.html
+
 1. Execute itemdisplayinfo.sql into your database
 
 2. Download and extract Wotlk-Interface-(6304)ICONS.rar
