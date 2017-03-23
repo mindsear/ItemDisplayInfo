@@ -2,21 +2,14 @@
 http://www.ac-web.org/forums/showthread.php?226167-How-to-easily-find-icon-name-(not-displayID)-of-a-WOTLK-item
 
 I made this application to ease the search of item displayid and icon name
-by combining the two tables into a single app + some minor features.
+by combining the two tables into a single app + showing the icon and some minor features.
 Thanks to totolencule for giving me the idea.
 
-Programming language used: C# (Visual Studio 2015)  
+Programming language used: C# (Visual Studio 2015) .NET Framework 4.5.2  
 
 ________________________________________________________________________________
 
 ## Instructions:  
-
-You can use XAMPP (MariaDB 10) or MySQL Server (Portable) >= 5.5.  
-Download XAMPP: https://www.apachefriends.org/index.html  
-
-If you're using MySQL Portable 5.5 or 5.6 execute the following query:  
-**UPDATE mysql.user SET Password=PASSWORD('') WHERE User='root';**  
-Restart MySQL.  
 
 1. Execute itemdisplayinfo.sql into your database  
 2. Download and extract Wotlk-Interface-(6304)ICONS.rar
